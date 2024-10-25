@@ -53,9 +53,7 @@ __________________________________________________________________________
 /*
 CREATE By Erika Linares
 CREATE Date: 10/06/2024
-Description This query displays change in First name to Customer First name
-Last name to Customer Last Name and Email change to EMAIL and ORDER BY Lastname sort by using
-DESC and First Name ASC 
+Description This query resultsall BillingCity that start with B and city that has B anywhere it is name
 */
 ______________________________________________________________________________
 SELECT
@@ -69,4 +67,18 @@ WHERE
 	BillingCity LIKE 'B%'
 ORDER BY
 	InvoiceDate
+__________________________________________________________________________________
 
+--%  sign wild card character
+--I dont care what comes next
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	total
+FROM 
+	Invoice
+WHERE
+	BillingCity LIKE '%B%'
+ORDER BY
+	InvoiceDate
