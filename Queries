@@ -50,5 +50,23 @@ ORDER BY
   firstName ASC
   LastName DESC
 __________________________________________________________________________
-
+/*
+CREATE By Erika Linares
+CREATE Date: 10/06/2024
+Description This query displays change in First name to Customer First name
+Last name to Customer Last Name and Email change to EMAIL and ORDER BY Lastname sort by using
+DESC and First Name ASC 
+*/
+______________________________________________________________________________
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	total
+FROM 
+	Invoice
+WHERE
+	BillingCity LIKE 'B%'
+ORDER BY
+	InvoiceDate
 
