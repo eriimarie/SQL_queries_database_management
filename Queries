@@ -82,3 +82,28 @@ WHERE
 	BillingCity LIKE '%B%'
 ORDER BY
 	InvoiceDate
+
+______________________________________________________________________________________
+/*
+CREATE By Erika Linares
+CREATE Date: 10/06/2024
+Description How many Invoices were billed on 2010-05-22 00:00:00'
+
+*/
+________________________________________________________________________________________
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	total
+FROM 
+	Invoice
+WHERE
+	InvoiceDate = '2010-05-22 00:00:00'
+ORDER BY
+	InvoiceDate
+__________________________________________________________________________________________
+Results:
+Invoice 		BillingAddres		BillingCity	Total
+2010-05-22 00:00:00	11, Place Bellecour	Lyon		13.86
+
