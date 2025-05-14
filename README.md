@@ -12,5 +12,5 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ## About Me
-Medium: @elin.dataspace Clark Kent’s pal | Data space writer & dashboard magician | Funalyzer | Geospatial apprentice 
+![Data Analyst Detective](https://github.com/eriimarie/yourrepo/blob/main/3B590524-71E3-421A-A709-C050BD9463DB.png?raw=true) Medium: @elin.dataspace Clark Kent’s pal | Data space writer & dashboard magician | Funalyzer | Geospatial apprentice 
 I'm a passionate data enthusiast who loves turning complex datasets into meaningful insights. Currently learning more about data engineering. My goal is to become more savvy in this world of data. Below you’ll find me  some Database project I am currently working on. 
