@@ -13,7 +13,7 @@
 
 ## About Me
 
-![Data Analyst Detective](https://github.com/eriimarie/SQL_queries_database_management/blob/main/3B590524-71E3-421A-A709-C050BD9463DB.png?raw=true)
+![Data Analyst Detective](3B590524-71E3-421A-A709-C050BD9463DB.PNG)
 
 **Medium**: [@elin.dataspace](https://medium.com/@elin.dataspace)  
 *Clark Kent’s pal | Data space writer & dashboard magician | Funalyzer | Geospatial*Data engineering Apprentice
