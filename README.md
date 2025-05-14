@@ -15,8 +15,8 @@
 
 ![Data Analyst Detective](3B590524-71E3-421A-A709-C050BD9463DB.PNG)
 
-**Medium**: [@elin.dataspace](https://medium.com/@elin.dataspace)  
-*Clark Kent’s pal | Data space writer & dashboard magician | Funalyzer | Geospatial*Data engineering Apprentice
+## Medium: @elin.dataspace
+Clark Kent’s pal | Data space writer & dashboard magician | Funalyzer | Geospatial & Data Engineering Apprentice
 I'm a passionate data enthusiast who loves turning complex datasets into meaningful insights.  
 Currently learning more about data engineering. My goal is to become more savvy in this world of data.  
 Below you’ll find some database projects I'm currently working on.
