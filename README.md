@@ -20,3 +20,15 @@ Clark Kent’s pal | Data space writer & dashboard magician | Funalyzer | Geospa
 I'm a passionate data enthusiast who loves turning complex datasets into meaningful insights.  
 Currently learning more about data engineering. My goal is to become more savvy in this world of data.  
 Below you’ll find some database projects I'm currently working on.
+
+## SQL Projects
+1. Employee Database Management System
+2. Hospital Management Systems
+3. E-Commerce Fraud Detection
+4. Music Stored Database Analysis
+
+## Contact Information
+Medium: @elin.dataspace
+LinkedIn: https://www.linkedin.com/in/julesmarielinares35/
+
+Clark Kent's pal thank you for visiting my SQL project repository. Check out my other project! 
